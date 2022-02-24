@@ -15,7 +15,7 @@
     justify-content: space-evenly;">
   <div style="display: inline_block"><br>
     <h3>Currently working with:</h3>
-    <img align="center" title="PHP" alt="Rafael-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+    <img align="center" title="PHP" alt="Rafael-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="pointer-events: none"/>
     <img align="center" title="HTML" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" title="CSS" alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" title="MySQL" alt="Rafael-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
