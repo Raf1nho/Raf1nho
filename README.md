@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raf1nho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raf1nho&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <div align="center">
+  <div align="center" style="display">
   <a href="https://www.linkedin.com/in/rafael-wos96/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto:rafaelwos96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://twitter.com/raf1nho" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>  
@@ -15,29 +15,31 @@
     justify-content: space-evenly;">
   <div style="display: inline_block"><br>
     <h3>Currently working with:</h3>
-    <img align="center" title="PHP" alt="Rafael-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="pointer-events: none"/>
-    <img align="center" title="HTML" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" title="CSS" alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" title="MySQL" alt="Rafael-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-    <img align="center" title="Git" alt="Rafael-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-    <img align="center" title="Docker" alt="Rafael-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-    <img align="center" title="Symphony" alt="Rafael-Symphony" height="30" width="30" src="https://www.vendev.in/assets/img/symfony.png">
-
+    <a href="https://github.com/Raf1nho/" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" width="40"></a>
+    <a href="https://github.com/Raf1nho/" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40"></a>
+    <a href="https://github.com/Raf1nho/" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40"></a>
+    <a href="https://github.com/Raf1nho/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="30" width="40"></a>
+    <a href="https://github.com/Raf1nho/" title="GIT"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" width="40"></a>
+    <a href="https://github.com/Raf1nho/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="30" width="40"></a>
+    <a href="https://github.com/Raf1nho/" title="Symfony"><img src="https://www.vendev.in/assets/img/symfony.png" height="30" width="30"></a>
   </div>
-  <div style="display: inline_block"><br>
-    <h3>Already studied:</h3>
-    <img align="center" title="Python" alt="Rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" title="Javascript" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" title="PHP" alt="Rafael-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-    <img align="center" title="HTML" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" title="CSS" alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" title="MySQL" alt="Rafael-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-    <img align="center" title="Git" alt="Rafael-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-    <img align="center" title="Vue.Js" alt="Rafael-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-    <img align="center" title="ReactJS" alt="Rafael-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" title="Svelte" alt="Rafael-Svelte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">  
-    <img align="center" title="Typescript" alt="Rafael-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" title="Angular" alt="Rafael-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+  <hr>
+    <h3>General stacks:</h3>
+    <a href="https://github.com/Raf1nho/" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" width="40"></a>
+    <a href="https://github.com/Raf1nho/" title="Javascript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" width="40"></a>
+    <a href="https://github.com/Raf1nho/" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" width="40"></a>
+    <a href="https://github.com/Raf1nho/" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40"></a>
+    <a href="https://github.com/Raf1nho/" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40"></a>
+    <a href="https://github.com/Raf1nho/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="30" width="40"></a>
+    <a href="https://github.com/Raf1nho/" title="GIT"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" width="30"></a>
+    <a href="https://github.com/Raf1nho/" title="Vue.Js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="40"></a>
+    <a href="https://github.com/Raf1nho/" title="ReactJS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40"></a>
+    <a href="https://github.com/Raf1nho/" title="Svelte"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" width="40"></a>
+    <a href="https://github.com/Raf1nho/" title="Angular"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="30" width="40"></a>
+    <a href="https://github.com/Raf1nho/" title="Typescript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="30" width="30"></a>
+    <a href="https://github.com/Raf1nho/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="30" width="40"></a>
+    <a href="https://github.com/Raf1nho/" title="Symfony"><img src="https://www.vendev.in/assets/img/symfony.png" height="30" width="30"></a>
+  </div>
   </div>
 <div>
   
