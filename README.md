@@ -5,6 +5,7 @@ Based in São Paulo, Brazil.
   <div style="display: inline_block">
     <h3>Currently working with:</h3>
     <a href="https://github.com/Raf1nho/" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" width="40"></a>
+    <a href="https://github.com/Raf1nho/" title="Javascript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" width="40"></a>
     <a href="https://github.com/Raf1nho/" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40"></a>
     <a href="https://github.com/Raf1nho/" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40"></a>
     <a href="https://github.com/Raf1nho/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="30" width="40"></a>
